@@ -1,4 +1,12 @@
-body {
-  background-color: purple; }
+body .top-container {
+  background-color: #E4F9F5; }
+body .middle-container {
+  background-color: red;
+  height: 200px;
+  width: 200px; }
+body .bottom-container {
+  background-color: blue;
+  height: 200px;
+  width: 200px; }
 
 /*# sourceMappingURL=main.css.map */
