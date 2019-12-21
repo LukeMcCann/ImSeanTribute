@@ -1,4 +1,4 @@
-View @ : https://lukemccann.github.io/ImSeanTribute/
+View @ : 
 
 Séan Hopkins Tribute
 
