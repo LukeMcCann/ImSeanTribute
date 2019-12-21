@@ -13,3 +13,6 @@ to run this project clone the git respository and install yarn.
     run: yarn install
 
     run: grunt watch (if you want to play with the scss)
+
+To make a responsive site:
+      Use css-grid and flexbox along with media-queries
